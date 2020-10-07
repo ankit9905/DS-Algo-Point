@@ -131,6 +131,8 @@ Format: -[Program name](name of the file)
 
 - [Sudoku Solver](SudokuSolver.cpp)
 
+- [Swap two numbers without using third variable](swap_two_numbers.cpp)
+
 - [Tim sort](Tim_Sort.cpp)
 
 - [Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
